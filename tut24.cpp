@@ -39,5 +39,4 @@ int main()
     ali.getData();
     Employee::getcount();
     return 0;
-}
- 
+}  
