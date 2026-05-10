@@ -21,7 +21,7 @@ void simple ::printData()
 
 int main()
 {
-    simple s(1);
+    simple s(12);
     s.printData();
 
     return 0;
